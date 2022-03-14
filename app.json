@@ -1,0 +1,63 @@
+{
+    "name": "Perosnal-Message-Bot",
+    "description": "Simple Telegram Bot To Get Feedback From Users",
+    "logo": "https://telegra.ph/file/7750bbf8b459bb350553a.jpg",
+    "keywords": [
+        "telegram",
+        "pyrogram",
+        "Personal-Message-bot",
+        "HeyHimzz"
+        "HeyAkii"
+        "Profile-Bot"
+    ],
+    "repository": "https://github.com/HeyHimzz/Profile-Bot",
+    "website": "",
+    "success_url": "https://t.me/BotXNetwork",
+    "env": {
+        "API_HASH": {
+            "description": "You API HASH from my.telegram.org",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "You API ID from my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "OWNER": {
+            "description": "ID of Owner",
+            "value": ""
+        },
+        "START_IMG": {
+            "description": "Telegraph Link Of Image",
+            "value": ""
+        },
+        "START_MSG": {
+            "description": "Start Message",
+            "value": ""
+        },
+        "BUTTON_1": {
+            "description": "Text in Button 1",
+            "value": ""
+        },
+        "LINK_1": {
+            "description": "Link in Button 1",
+            "value": ""
+        },
+        "BUTTON_2": {
+            "description": "Text in Button 2",
+            "value": ""
+        },
+        "LINK_2": {
+            "description": "Link in Button 2",
+            "value": ""
+        }        
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
