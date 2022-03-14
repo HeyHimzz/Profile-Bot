@@ -1,6 +1,6 @@
 {
     "name": "Profile-Bot",
-    "description": "Simple Telegram Bot To Get Feedback From Users",
+    "description": "Simple Telegram Bot To Get Feedback / Messages From Users",
     "logo": "https://telegra.ph/file/7750bbf8b459bb350553a.jpg",
     "keywords": [
         "telegram",
@@ -11,7 +11,7 @@
         "Profile-Bot"
     ],
     "repository": "https://github.com/HeyHimzz/Profile-Bot",
-    "website": "",
+    "website": "t.me/heyHimzz",
     "success_url": "https://t.me/BotXNetwork",
     "env": {
         "API_HASH": {
